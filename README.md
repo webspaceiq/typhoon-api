@@ -1,2 +1,2 @@
 # Typhoon API
-Express JS api for the Typhoon Protocol.
+Express JS backend for the Typhoon Protocol.
